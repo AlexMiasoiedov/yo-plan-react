@@ -5,5 +5,7 @@ body {
 }
 
 .branding {
-
+  font-family: "Goudy Bookletter 1911", sans-serif;
+/*  font-variant: small-caps;*/
+/*  font-weight: 700;*/
 }
